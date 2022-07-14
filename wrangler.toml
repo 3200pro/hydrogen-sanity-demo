@@ -1,0 +1,11 @@
+name = "practical-golf"
+workers_dev = true
+compatibility_date = "2022-01-28"
+compatibility_flags = ["streams_enable_constructors"]
+main = "dist/worker/index.js"
+
+[site]
+bucket = "dist/client"
+
+[build]
+command = "yarn && yarn build"
