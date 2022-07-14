@@ -6,7 +6,7 @@ This demo is compatible with `@shopify/hydrogen ~= 1.0.0`
 
 [Demo][hydrogen-sanity-demo] | [Sanity Studio][sanity-shopify-studio] | [Sanity Connect for Shopify][sanity-connect]
 
-# About
+# About This
 
 AKVA is our customized [Hydrogen][hydrogen-github] starter that presents a real-world example of how Sanity and Structured Content can elevate your custom Shopify storefronts.
 
